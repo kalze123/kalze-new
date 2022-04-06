@@ -1,3 +1,6 @@
+####CARA INSTALL
+
+```
 pkg update && upgrade
 pkg install git
 pkg install python
@@ -13,3 +16,4 @@ pip install random
 pip install base64
 pip install platform
 python kalze.py
+```
