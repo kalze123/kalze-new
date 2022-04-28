@@ -5,8 +5,8 @@ pkg install python
 pkg install git
 pip install bs4 cython requests futures
 git clone https://github.com/kalze123/kalze-new
-cd kalze-new
+cd kalze
 git pull
-python kalzeee.py
+python kalze.py
 
 ```
