@@ -1,3 +1,13 @@
+
+# WhatsApp:083865******
+# Facebook:Para*****
+# Blogspot: Blogspot
+# Github: Klz
+
+
+
+
+
 # kalze-new
 ```
 pkg update && pkg upgrade
