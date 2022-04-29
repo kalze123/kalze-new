@@ -28,7 +28,7 @@ pip install rich
 
 pip install mechanize
 
-git clone https://github.com/kalze123/kalze-new
+git clone https://github.com/kalze123/kalze-new      
 
 cd kalze-new
 
