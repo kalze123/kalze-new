@@ -11,28 +11,29 @@
 
 # TUTORIAL INSTALL BAHAN
 • Cara pasang
-```
-pkg install python
 
-pkg install git
+$ pkg install python
 
-pip install requests
+$ pkg install git 
 
-pip install bs4
+$ pip install requests
 
-pip install requests
+$ pip install bs4
 
-pip install futures
+$ pip install requests
 
-pip install rich
+$ pip install futures
 
-pip install mechanize
+$ pip install rich
 
-git clone https://github.com/kalze123/kalze-new
-cd kalze-new
+$ pip install mechanize
 
-git pull
+$ git clone https://github.com/kalze123/kalze-new
 
-python kalze.py
+$ cd kalze-new
 
-```
+$ git pull
+
+$ python kalze.py
+
+
