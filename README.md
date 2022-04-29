@@ -11,7 +11,7 @@
 
 # TUTORIAL INSTALL BAHAN
 • Cara pasang
-
+```
 pkg install python
 
 pkg install git 
@@ -35,5 +35,5 @@ cd kalze-new
 git pull
 
 python kalze.py
-
+```
 
