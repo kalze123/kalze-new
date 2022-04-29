@@ -1,14 +1,16 @@
+# welcome to github kalze 
 
-# WhatsApp:083865******
-# Facebook:Para*****
-# Blogspot: Blogspot
-# Github: Klz
-
-
-
+* WhatsApp:083865******
+* Facebook:Para*****
+* Blogspot: Blogspot
+* Github: Klz
 
 
-# kalze-new
+
+
+
+# Tutorial install bahan
+• Cara pasang
 ```
 pkg update && pkg upgrade
 pkg install python
