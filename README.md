@@ -13,27 +13,16 @@
 • Cara pasang
 
 pkg install python
-
 pkg install git 
-
 pip install requests
-
 pip install bs4
-
 pip install requests
-
 pip install futures
-
 pip install rich
-
 pip install mechanize
-
-git clonehttps://github.com/kalze123/kalze-new      
-
+git clone https://github.com/kalze123/kalze-new      
 cd kalze-new
-
 git pull
-
 python kalze.py
 
 
