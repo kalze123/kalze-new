@@ -88,7 +88,7 @@ def banner():
 """%(N))                                                    
 ───────────────────────────────────────────────────────
  [\x1b[1;96m+%s] Nama       : KALZE
- [\x1b[1;96m+%s] WhatsApp   : 6283878083448
+ [\x1b[1;96m+%s] WhatsApp   : 6283865283286
  [\x1b[1;96m+%s] Facebook   : @KLZ
  [\x1b[1;96m+%s] Github      : https://github.com/kalze123/kalze-new
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
@@ -102,7 +102,7 @@ def kontol():
 {P}[•]{B}----------------------------------------------------{P}[•]
 {B} |
 {P}[•] AUTHOR: KALZE-XD
-{P}[•] WHATSAPP: 6283878083448
+{P}[•] WHATSAPP: 6283865283286
 {B}[•] FACEBOOK: KALZE-XD""")
 def licensi():#line:42
   try :#line:43
